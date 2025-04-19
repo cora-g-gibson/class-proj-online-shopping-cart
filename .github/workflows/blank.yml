@@ -33,4 +33,4 @@ if __name__ == "__main__":
     item2.print_item_cost
     total_cost = (item1.item_price * item1.item_quantity) + (item2.item_price * item2.item_quantity)
 
-    print(f"Total: ${total_cost}")
+    print(f"Total:${total_cost}")
